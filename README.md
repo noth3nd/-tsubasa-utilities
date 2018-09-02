@@ -1,2 +1,2 @@
 # -tsubasa-utilities
-Missing files for tsubasa..
+Missing file for creating boot.img 
